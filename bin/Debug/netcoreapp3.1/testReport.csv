@@ -1,0 +1,1 @@
+Create account with full values (successful),api/Accounts/CreateAccount,POST,{"userName":"b26763c0-271f-45a3-bda1-c6eb421f91c8","password":"123456x@X","role":"Admin","phoneNumber":"0949690002","fullName":"Do Trong Si","address":"HCM City","cartItem":[],"order":[]},200,200,Add account is successful,Add account is successful,Passed
